@@ -1,4 +1,4 @@
-import { Button } from "@/components/ui/button"
+import { Button } from "@/Components/ui/button"
 import { GraduationCap } from "lucide-react"
 export default function Navbar() {
   return (

@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect, useRef } from "react"
-import { Button } from "@/components/ui/button"
+import { Button } from "@/Components/ui/button"
 import { Download, PrinterIcon as Print, ArrowLeft } from "lucide-react"
 
 const API_BASE_URL = "http://localhost:8000/api/v1/users"

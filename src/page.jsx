@@ -1,8 +1,8 @@
 "use client"
 
 import { useState } from "react"
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { Button } from "@/components/ui/button"
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/Components/ui/card"
+import { Button } from "@/Components/ui/button"
 import { Building2, Users, Shield, BookOpen, Award, TrendingUp } from "lucide-react"
 
 export default function HomePage() {

@@ -1,11 +1,11 @@
 "use client"
 
 import { useState } from "react"
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/input"
-import { Label } from "@/components/ui/label"
-import { Alert, AlertDescription } from "@/components/ui/alert"
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/Components/ui/card"
+import { Button } from "@/Components/ui/button"
+import { Input } from "@/Components/ui/input"
+import { Label } from "@/Components/ui/label"
+import { Alert, AlertDescription } from "@/Components/ui/alert"
 import { ArrowLeft, Building2, Users, Shield } from "lucide-react"
 
 const API_BASE_URL = "http://localhost:8000/api/v1/users"
