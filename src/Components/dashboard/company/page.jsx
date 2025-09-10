@@ -12,9 +12,9 @@ import {
   DialogHeader,
   DialogTitle,
   DialogTrigger,
-} from "@/components/ui/dialog"
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
-import { Alert, AlertDescription } from "@/components/ui/alert"
+} from "@/Components/ui/dialog"
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/Components/ui/tabs"
+import { Alert, AlertDescription } from "@/Components/ui/alert"
 import { BookOpen, Users, Award, Plus, LogOut, Edit, Trash2 } from "lucide-react"
 
 const API_BASE_URL = "http://localhost:8000/api/v1/users"

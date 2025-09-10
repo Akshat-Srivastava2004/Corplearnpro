@@ -13,8 +13,8 @@ import {
   DialogHeader,
   DialogTitle,
   DialogTrigger,
-} from "@/components/ui/dialog"
-import { Alert, AlertDescription } from "@/components/ui/alert"
+} from "@/Components/ui/dialog"
+import { Alert, AlertDescription } from "@/Components/ui/alert"
 import { BookOpen, Award, Play, CheckCircle, Clock, LogOut, Trophy } from "lucide-react"
 
 const API_BASE_URL = "http://localhost:8000/api/v1/users"
