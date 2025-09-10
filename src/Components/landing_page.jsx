@@ -1,7 +1,7 @@
-import { Button } from "@/components/ui/button"
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { Input } from "@/components/ui/input"
-import { Badge } from "@/components/ui/badge"
+import { Button } from "@/Components/ui/button"
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/Components/ui/card"
+import { Input } from "@/Components/ui/input"
+import { Badge } from "@/Components/ui/badge"
 import { Award, BookOpen, Users, TrendingUp, CheckCircle, Star, Globe, Shield, Clock, Target, Briefcase, GraduationCap, Phone, Mail, MapPin, ArrowRight, Play } from 'lucide-react'
 
 export default function CorporateTrainingLanding() {
